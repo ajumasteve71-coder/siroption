@@ -80,6 +80,9 @@
     },
     "platform": {
         "name": "TagTool",
+        "i18n": {
+            "default_language": "EN"
+        },
         "footer": {
             "enable_language_settings": false,
             "enable_theme_toggle": true
@@ -107,6 +110,6 @@
             }
         },
         "show_name": true,
-        "logo_path": "/logo.png"
+        "logo_path": null
     }
 }
